@@ -1,0 +1,165 @@
+header{
+    Padding: 16px 78px;
+background-color: #fff;
+height: 60px;
+width: 100%;
+}
+#heading_bar{
+      display:flex;
+
+margin: 10px;
+    padding: 1px 0px 0px 4px;
+}
+
+ .head1{
+
+
+    width: 130px;
+    color: #0084ff;
+    margin-top: 5px;
+    font-family: Raleway,sans-serif;
+    font-size: 24px;
+    font-weight: 900;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: 1.08;
+    letter-spacing: -.9px;
+    text-align: left;
+    cursor: pointer;
+    
+ }
+    
+
+.head2{
+    margin: 0%;
+    font-weight: 500;
+    font-family: 'Raleway', sans-serif;
+    font-style: italic;
+    cursor: pointer;
+
+} 
+ .heading{
+
+width: 20%
+} 
+
+
+
+.cat{
+
+
+    
+ display:inline-block;
+ height: 60px;
+ cursor: pointer;
+ width: 20%;
+margin-top: 12px;
+ margin-left: 10px;
+ letter-spacing: .9px;
+}
+
+
+.category_main{
+    margin-bottom: 20px;
+    font-size: 16px;
+    padding-top: 16px;
+    width: 85%;
+    margin-left: 200px;
+}
+
+.category_main .heading{
+
+    width: fit-content;
+    margin: 0;
+    font-family: Raleway,sans-serif;
+    font-size: 2.25em;
+    font-weight: 600;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: 1.94;
+    letter-spacing: -.9px;
+    text-align: left;
+    color: #000;
+
+
+}
+
+.filter{
+    font-size: 14px;
+    font-weight: 600;
+    margin-left: 8px;
+    margin-top:10px ;
+}
+.cats{
+    padding-top: 6px;
+    font-family: Arial, Helvetica, sans-serif;
+    padding-right: 14px;
+    color: #0084ff;
+    border-radius: 15px;
+    border: 1px solid #0084ff;
+    margin: 15px;
+    padding: 5px;
+    cursor: pointer;
+    justify-content: center;
+}
+
+#cats_main{
+    display: flex;
+}
+
+
+
+.cats:active{
+    color: #ffff;
+    background-color: #0084ff;
+}
+  .card {
+
+    
+    background-color: #fff;
+    -webkit-box-shadow: 0 3px 10px 0 rgb(0 0 0 / 10%);
+    box-shadow: 0 3px 10px 0 rgb(0 0 0 / 10%);
+    border-radius: 5px;
+    border: 1px solid rgba(0,168,255,.3); */
+
+    
+    width: 40%;
+    height: 300px;
+    padding: 10px;
+    margin: 10px;
+    display: inline-block; }
+
+
+
+#card_main{
+    
+    padding: 10px; 
+    
+    width: 85%;
+    margin-left: 200px ;
+}
+
+body{
+    overflow-x: hidden;
+    background-color:#f2f6ff;
+}
+.tits{
+    font-family: Raleway,sans-serif;
+    font-style: normal;
+    font-stretch: normal;
+    letter-spacing: normal;
+    text-align: left;
+    margin: 0;
+}
+
+footer{
+    background-color: #172146;
+    padding-top:80px ;
+    padding-right:16% ;
+}
+
+
+
+
+
+ 
